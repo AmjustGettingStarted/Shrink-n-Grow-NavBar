@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://www.pngplay.com/wp-content/uploads/1/Men-Pointing-Left-Free-Commercial-Use-PNG-Image.png");
+    background-size: cover;
+}
+.maindiv {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 0%;
+}
+
+
+
+
+ul{
+    font-size: xx-large;
+}
+
+li{
+
+    list-style: none;
+    margin-top: 20px;
+    text-align: start;
+    display: none;
+}
